@@ -6,14 +6,10 @@
 </a>
 </p>
 
-<p align="center">
-<strong>Web Developer</strong> | <strong>Full Stack Enthusiast</strong> | <strong>Open to Collaboration</strong>
-</p>
+<p align="center"><strong>Web Developer</strong> | <strong>Full Stack Enthusiast</strong> | <strong>Open to Collaboration</strong></p>
 
-<p align="center">
-I build modern, responsive, and interactive web applications from idea 💡 to implementation 🚀.<br/>
-Focused on <strong>Frontend Development</strong>, <strong>Clean UI/UX</strong>, and growing towards <strong>Full-Stack Development</strong>.
-</p>
+<p align="center">I build modern, responsive, and interactive web applications from idea 💡 to implementation 🚀.<br>
+Focused on <strong>Frontend Development</strong>, <strong>Clean UI/UX</strong>, and growing towards <strong>Full-Stack Development</strong>.</p>
 
 ---
 
@@ -56,7 +52,9 @@ Focused on <strong>Frontend Development</strong>, <strong>Clean UI/UX</strong>, 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kiranmajeediss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+| **Stats** | **Languages** |
+|---|---|
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiranmajeediss&theme=tokyonight) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiranmajeediss&theme=tokyonight) |
 
 ---
 
