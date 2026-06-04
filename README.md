@@ -1,11 +1,19 @@
-# Hey there, I'm Kiran Majeed 👋
+<h1 align="center">Hey there, I'm Kiran Majeed 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E91E8C&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;Frontend+%26+Backend+Enthusiast;Always+Learning+%26+Building+Cool+Stuff!)](https://github.com/kiranmajeediss)
+<p align="center">
+<a href="https://github.com/kiranmajeediss">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E91E8C&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;Frontend+%26+Backend+Enthusiast;Always+Learning+%26+Building+Cool+Stuff!" alt="Typing SVG" />
+</a>
+</p>
 
-**Web Developer** | **Full Stack Enthusiast** | **Open to Collaboration**
+<p align="center">
+<strong>Web Developer</strong> | <strong>Full Stack Enthusiast</strong> | <strong>Open to Collaboration</strong>
+</p>
 
-I build modern, responsive, and interactive web applications from idea 💡 to implementation 🚀.
-Focused on **Frontend Development**, **Clean UI/UX**, and growing towards **Full-Stack Development**.
+<p align="center">
+I build modern, responsive, and interactive web applications from idea 💡 to implementation 🚀.<br/>
+Focused on <strong>Frontend Development</strong>, <strong>Clean UI/UX</strong>, and growing towards <strong>Full-Stack Development</strong>.
+</p>
 
 ---
 
@@ -48,9 +56,7 @@ Focused on **Frontend Development**, **Clean UI/UX**, and growing towards **Full
 
 ## 📊 GitHub Stats
 
-| **Stats** | **Languages** |
-|---|---|
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiranmajeediss&theme=tokyonight) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiranmajeediss&theme=tokyonight) |
+![Stats](https://github-readme-stats.vercel.app/api?username=kiranmajeediss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
